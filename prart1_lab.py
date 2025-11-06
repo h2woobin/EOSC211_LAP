@@ -1,5 +1,6 @@
 import math
 
+#A)
 def grav_acc(s_x, s_y, Mp):
     """""
     Calculates the gravitational acceleration acting on the spacecraft using its position and the mass of the planet. 
